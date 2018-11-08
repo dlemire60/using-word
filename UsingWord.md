@@ -22,14 +22,14 @@ especially the other components of Microsoft Office.\[1\]
 
 I feel obliged to make one “soapbox” comment:
 
-> > Modern word processors, like Word, aren’t typewriters. If you use a
-> > word processor like a typewriter, you will get frustrated. If you
-> > learn to use its capabilities as intended, you’ll reduce your
-> > frustration.\[2\] If you right-click on things in Word, explore the
-> > ribbons, explore the settings, really look at *all* of the controls
-> > and settings in a dialog box, etc., you’ll discover lots of useful
-> > features.\[3\] The capabilities available in Word are truly amazing,
-> > and it’s fun to discover new tricks, so it’s worthwhile to explore.
+> Modern word processors, like Word, aren’t typewriters. If you use a
+> word processor like a typewriter, you will get frustrated. If you
+> learn to use its capabilities as intended, you’ll reduce your
+> frustration.\[2\] If you right-click on things in Word, explore the
+> ribbons, explore the settings, really look at *all* of the controls
+> and settings in a dialog box, etc., you’ll discover lots of useful
+> features.\[3\] The capabilities available in Word are truly amazing,
+> and it’s fun to discover new tricks, so it’s worthwhile to explore.
 
 OK, off the soapbox.
 
@@ -89,9 +89,7 @@ just it’s easy to get to.
 
 # Ribbons and Phantom Ribbons
 
-![]
-
-(media/image1.png)
+![](media/image1.png)
 
 Microsoft calls the controls bar across the
 top of the page the Ribbon. \[4\] One thing to note about the ribbon is
