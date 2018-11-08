@@ -89,7 +89,7 @@ just it’s easy to get to.
 
 # Ribbons and Phantom Ribbons
 
-![](media/media/image1.png)Microsoft calls the controls bar across the
+![](media/image1.png)Microsoft calls the controls bar across the
 top of the page the Ribbon. \[4\] One thing to note about the ribbon is
 that each tab (Home, Insert, etc.) is broken into groups, and many
 groups have a small arrow at the lower right corner. The Page Setup
@@ -101,7 +101,7 @@ example, the full Page Setup dialog has three tabs that provide
 additional options such as vertical alignment of the page content (on
 the Layout tab in that dialog), which isn’t anywhere on the ribbon.
 
-![](media/media/image2.png)Something else I’ve noticed people seem to
+![](media/image2.png)Something else I’ve noticed people seem to
 overlook: With the ribbon interface, Microsoft Office included the
 concept of a ribbon that only displays when it’s relevant. Microsoft
 calls these “Contextual Tab Sets”, but I just call them “phantom”
@@ -144,7 +144,7 @@ Alt, \<letter key\> or (hold) Ctrl‑\<letter key\> to get to a function.
 With Word 2016, if you tap the Alt key, you’ll see something like
 this:\[7\]
 
-![](media/media/image3.png)
+![](media/image3.png)
 
 Those letters and numbers in black boxes are accelerators: type Alt, W
 and you get the View ribbon, type Alt, N and you get the insert ribbon.
@@ -154,9 +154,9 @@ I<span class="underline">n</span>sert,
 <span class="underline">T</span>able and brings up the dialog with
 different ways of inserting tables.
 
-![](media/media/image4.png)
+![](media/image4.png)
 
-![](media/media/image5.png)Accelerators are indicated by black letter
+![](media/image5.png)Accelerators are indicated by black letter
 boxes on ribbons and underlined letters in dialog boxes. If there are
 lot of functions on a particular ribbon, some functions have a
 two-letter accelerator; for example, you can select paragraph alignment
@@ -209,7 +209,7 @@ Op<span class="underline">t</span>ions may help you find places to tweak
 behavior that you find annoying. Some configuration tweaks I
 particularly recommend:
 
-  - ![](media/media/image6.png)I find most of Word’s automated
+  - ![](media/image6.png)I find most of Word’s automated
     formatting, where Word tries to anticipate what you want and give it
     to you, to be wrong about half the time. Typing Undo (Ctrl‑Z)
     *immediately* after the automated change will fix most of these when
@@ -481,7 +481,7 @@ at the cursor, including font, paragraph, and section settings. The
 paragraph list also indicates what paragraph style has been applied,
 making it easy to see the style and outline level of the current text.
 
-![](media/media/image7.png)*Search for Formatting*. When you search
+![](media/image7.png)*Search for Formatting*. When you search
 (Ctrl-F) Word will show the Navigation Pane and place the cursor in the
 Search Document field. At the right edge of that field is a magnifier
 icon and a tiny triangle. Clicking on that triangle exposes a number of
@@ -769,7 +769,7 @@ options to show hidden formatting. The figure below shows the way
 sections make up a document and the list afterward tells where to find
 the various aspects of document/section formatting when you need them.
 
-![](media/media/image8.wmf)
+![](media/image8.wmf)
 
   - 
   - **Layout Tab**
@@ -855,7 +855,7 @@ features of the Paragraph dialog <span class="underline">I</span>ndents
 and Spacing tab control the format of paragraphs with regard to the
 overall page format established using the Layout, Page Setup functions.
 
-![](media/media/image9.wmf)
+![](media/image9.wmf)
 
 Paragraph formatting information is effectively stored in the little
 paragraph symbol (the reversed-P thingy: ¶) at the end of the paragraph.
@@ -929,7 +929,7 @@ method is used instead of a blank line, then Keep With Next will keep
 the heading and the content together, separated by the specified
 spacing. This concept is illustrated in the following figure.
 
-![](media/media/image10.wmf)
+![](media/image10.wmf)
 
 ## Document Structure: A Key Use of Styles
 
