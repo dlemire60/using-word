@@ -89,7 +89,11 @@ just it’s easy to get to.
 
 # Ribbons and Phantom Ribbons
 
-![](media/image1.png)Microsoft calls the controls bar across the
+![]
+
+(media/image1.png)
+
+Microsoft calls the controls bar across the
 top of the page the Ribbon. \[4\] One thing to note about the ribbon is
 that each tab (Home, Insert, etc.) is broken into groups, and many
 groups have a small arrow at the lower right corner. The Page Setup
