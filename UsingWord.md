@@ -200,7 +200,7 @@ Op<span class="underline">t</span>ions may help you find places to tweak
 behavior that you find annoying. Some configuration tweaks I
 particularly recommend:
 
-  - ![](media/image6.png)I find most of Word’s automated
+  - I find most of Word’s automated
     formatting, where Word tries to anticipate what you want and give it
     to you, to be wrong about half the time. Typing Undo (Ctrl‑Z)
     *immediately* after the automated change will fix most of these when
@@ -220,6 +220,8 @@ particularly recommend:
     appear on the status bar. Some of the items (e.g., the Track Changes
     status) can also be clicked to change their status (e.g., turn
     change tracking on and off).
+
+![](media/image6.png)
 
   - Word stores most of its defaults, including the formatting of a
     “blank document” in a template file called NORMAL.DOTXM; with Word
