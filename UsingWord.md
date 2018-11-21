@@ -55,7 +55,7 @@ be missing out\!
 
 [Ribbons and Phantom Ribbons](#_Toc471220670)
 
-[Keyboard Accelerators & Shortcuts](#keyboard-accelerators-&-shortcuts)
+[Keyboard Accelerators and Shortcuts](#keyboard-accelerators-and-shortcuts)
 
 [Tweak Word To Suit You](#tweak-word-to-suit-you)
 
@@ -77,7 +77,7 @@ be missing out\!
 
 [Document Structure: A Key Use of Styles](#document-structure-a-key-use-of-styles)
 
-[Document Templates & NORMAL.DOTX](#document-templates-normal.dotx)
+[Document Templates and NORMAL.DOTX](#document-templates-normal.dotx)
 
 [Customizing Word](#customizing-word)
 
@@ -127,7 +127,7 @@ control display of the ribbon (a little box with an up arrow). And you
 can use the keyboard shortcut Ctrl-F1 to toggle visibility of the
 ribbon.
 
-# Keyboard Accelerators & Shortcuts
+# Keyboard Accelerators and Shortcuts
 
 While most folks I’ve watched rely heavily on the mouse, I use the
 keyboard a lot. It’s probably more accurate to state that I use the
@@ -1018,7 +1018,7 @@ can turn that off under File, Options, AutoCorrect Options, Autoformat
 As You Type tab, uncheck the “Internet and network paths with
 hyperlinks” option.
 
-# Document Templates & NORMAL.DOTX
+# Document Templates and NORMAL.DOTX
 
 Another confusing aspect of Word is document templates. The basics are
 as follows:
