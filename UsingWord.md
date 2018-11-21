@@ -146,7 +146,7 @@ different ways of inserting tables.
 
 ![](media/image4.png)
 
-![](media/image5.png)Accelerators are indicated by black letter
+Accelerators are indicated by black letter
 boxes on ribbons and underlined letters in dialog boxes. If there are
 lot of functions on a particular ribbon, some functions have a
 two-letter accelerator; for example, you can select paragraph alignment
@@ -154,6 +154,8 @@ two-letter accelerator; for example, you can select paragraph alignment
 left / center / right / justified, respectively (admittedly, these start
 to feel a bit clumsy, even to me, but they do let you keep your hands on
 keyboard).
+
+![](media/image5.png)
 
 Note that you must tap the Alt key and type the ribbon selection letter
 even to get to the functions on the currently displayed ribbon. While
