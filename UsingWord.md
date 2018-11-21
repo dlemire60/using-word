@@ -55,7 +55,7 @@ be missing out\!
 
 [Ribbons and Phantom Ribbons](#_Toc471220670)
 
-[Keyboard Accelerators & Shortcuts](#keyboard-accelerators-shortcuts)
+[Keyboard Accelerators & Shortcuts](#keyboard-accelerators-&-shortcuts)
 
 [Tweak Word To Suit You](#tweak-word-to-suit-you)
 
