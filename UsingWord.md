@@ -89,16 +89,16 @@ example, the full Page Setup dialog has three tabs that provide
 additional options such as vertical alignment of the page content (on
 the Layout tab in that dialog), which isn’t anywhere on the ribbon.
 
-![](media/image2.png)
-
 Something else I’ve noticed people seem to
 overlook: With the ribbon interface, Microsoft Office included the
 concept of a ribbon that only displays when it’s relevant. Microsoft
 calls these “Contextual Tab Sets”, but I just call them “phantom”
 ribbons. These ribbons appear when you click on a table or a picture and
-offer controls specific to the selected object. At right is an example
+offer controls specific to the selected object. Here is an example
 of the Picture Tools phantom ribbon appearing when a graphic is
 selected.
+
+![](media/image2.png)
 
 Selecting one of the phantom ribbons gives you access to a set of
 functions specific to the selected object, such as cropping and
