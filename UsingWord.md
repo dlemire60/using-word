@@ -441,7 +441,9 @@ Name\<tab\>Address\<tab\>City\<tab\>State\<tab\>Zip
 
 and then convert text to table as described above, I’ll wind up with:
 
+|-|
 | Name | Address | City | State | Zip |
+|-|
 
 I can then place the cursor in the last cell, hit the tab key to create
 a blank next row, and I’m ready to start capturing an address list.
