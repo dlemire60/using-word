@@ -350,12 +350,12 @@ also use the Properties dialog from the Table Layout ribbon to align
 your signature block left, center, or right as you wish for your
 document.
 
-|-|
+| - |
 | |
-|-|
+| - |
 | |
 | **David P. Lemire**, General Troublemaker |
-|-|
+| - |
 
 That Properties dialog is the place to go for a lot of your table
 formatting needs: row height, column width, heading rows, etc.
@@ -441,11 +441,9 @@ Name\<tab\>Address\<tab\>City\<tab\>State\<tab\>Zip
 
 and then convert text to table as described above, I’ll wind up with:
 
-|-|-|-|-|-|
-
+| - | - | - | - | - |
 | Name | Address | City | State | Zip |
-
-|-|-|-|-|-|
+| - | - | - | - | - |
 
 I can then place the cursor in the last cell, hit the tab key to create
 a blank next row, and I’m ready to start capturing an address list.
