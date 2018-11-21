@@ -289,7 +289,7 @@ of the whys and wherefores of Draft view:
     Op<span class="underline">t</span>ions, Advanced, Show Document
     Content group. I particularly like this when projecting a document
     in a meeting, since you can easily get the text big enough on screen
-    for folks to read without any need for horizontal scrolling.
+    for folks to read while the text wraps to fit the window eliminating any need for horizontal scrolling.
 
 Beyond Draft view:
 
@@ -305,8 +305,6 @@ Beyond Draft view:
     are some handy built-in zoom settings on the View ribbon or if you
     click on the percentage number in the zoom control in the bottom
     right corner. Some of these are only relevant in Print Layout view:
-
-<!-- end list -->
 
   - “Page width” sets the zoom so that the horizontal width of the page
     fits in the window. (Alt, W, I)
