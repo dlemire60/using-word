@@ -69,10 +69,7 @@ be missing out\!
 * [Customizing Word](#customizing-word)
 * [Useful Resources](#useful-resources)
 
-<span id="_Toc471220670" class="anchor"></span>For starters, here’s a
-link to the PDF of Microsoft’s [Quick Start guide for
-Word 2016](http://download.microsoft.com/download/1/2/6/1269C192-F79E-4918-B737-D828E0522349/WORD%202016%20QUICK%20START%20GUIDE.PDF),
-just it’s easy to get to.
+For starters, here’s a link to the PDF of Microsoft’s downloadable [Quick Start Guide For Word](file:///home/chronos/u-51a65c7ef91fa0803d969f4297180691f65aaaae/Downloads/Word%20QS.pdf), which give the "official" intro to the program. It might be a useful complement to the info I've provided here (which is wordier, but deeper).
 
 # Ribbons and Phantom Ribbons
 
