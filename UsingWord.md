@@ -77,7 +77,7 @@ be missing out\!
 
 [Document Structure: A Key Use of Styles](#document-structure-a-key-use-of-styles)
 
-[Document Templates and NORMAL.DOTX](#document-templates-normal.dotx)
+[Document Templates and NORMAL.DOTX](#document-templates-and-normal.dotx)
 
 [Customizing Word](#customizing-word)
 
