@@ -1,3 +1,7 @@
+# Using Microsoft Word Effectively
+
+## January 2017
+
 Microsoft Word is the *de facto* writing tool. I like to learn the “ins
 and outs” of the tools I use heavily, and wanted to share things I’ve
 found helpful in using Word effectively. This paper captures various
