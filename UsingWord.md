@@ -171,14 +171,13 @@ few instances of punctuation marks as accelerators. So they may be hard
 to spot, but they’re almost always there.
 
 Throughout this document, underlined letters are the accelerator keys I
-see when using Word 2016. Since the ribbon interface was added in Word
-2007, sometimes the accelerator letters aren’t part of the label, so for
+see when using Word 2016. Sometimes the accelerator letters aren’t part of the label, so for
 those I’ve put the letter in parenthesis; for example:
 Vie<span class="underline">w</span>, Draft (<span class="underline">E</span>).
 
 There are also a lot of pre-defined keyboard shortcuts wired into Word
 by default (you can change any of these, by the way, or add your own –
-see the section later on customiza­tion). Ribbon items that have
+see the section later on customization). Ribbon items that have
 pre-defined shortcut keys display them in the tool tip if you hover the
 mouse over the icon for that item (e.g., hover over the Find function on
 the Home ribbon menu, you’ll get a tool tip that identifies “Ctrl+F” as
