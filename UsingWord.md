@@ -350,12 +350,12 @@ also use the Properties dialog from the Table Layout ribbon to align
 your signature block left, center, or right as you wish for your
 document.
 
-| ----------------------------------------- |
-|                                           |
-| ----------------------------------------- |
-|                                           |
+|-|
+| |
+|-|
+| |
 | **David P. Lemire**, General Troublemaker |
-| ----------------------------------------- |
+|-|
 
 That Properties dialog is the place to go for a lot of your table
 formatting needs: row height, column width, heading rows, etc.
