@@ -73,13 +73,15 @@ For starters, here’s a link to the PDF of Microsoft’s downloadable [Quick St
 
 # Ribbons and Phantom Ribbons
 
-![](media/image1.png)
-
 Microsoft calls the controls bar across the
 top of the page the Ribbon. \[4\] One thing to note about the ribbon is
 that each tab (Home, Insert, etc.) is broken into groups, and many
 groups have a small arrow at the lower right corner. The Page Setup
-group on the Layout ribbon is shown here as an example. Clicking that
+group on the Layout ribbon is shown here as an example. 
+
+![](media/image1.png)
+
+Clicking that
 little arrow or using its keyboard shortcut opens up a dialog box with
 full control over all of the items related to the group, usually
 including a number of things that aren’t included on the ribbon. For
