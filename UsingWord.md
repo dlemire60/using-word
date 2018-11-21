@@ -104,7 +104,7 @@ Selecting one of the phantom ribbons gives you access to a set of
 functions specific to the selected object, such as cropping and
 recoloring for pictures, or inserting and deleting rows and columns for
 tables. Some object types actually have multiple ribbons: tables have
-both Design and Layout ribbons (which is why they’re Contextual Tab Sets
+both Design and Layout ribbons (which is why they’re Contextual Tab Set_s_
 (plural)).
 
 The ribbon can be hidden by clicking the little caret symbol at the
