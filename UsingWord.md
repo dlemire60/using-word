@@ -87,7 +87,9 @@ example, the full Page Setup dialog has three tabs that provide
 additional options such as vertical alignment of the page content (on
 the Layout tab in that dialog), which isn’t anywhere on the ribbon.
 
-![](media/image2.png)Something else I’ve noticed people seem to
+![](media/image2.png)
+
+Something else I’ve noticed people seem to
 overlook: With the ribbon interface, Microsoft Office included the
 concept of a ribbon that only displays when it’s relevant. Microsoft
 calls these “Contextual Tab Sets”, but I just call them “phantom”
