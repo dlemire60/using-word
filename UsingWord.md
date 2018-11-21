@@ -224,7 +224,7 @@ particularly recommend:
 ![](media/image6.png)
 
   - Word stores most of its defaults, including the formatting of a
-    “blank document” in a template file called NORMAL.DOTXM; with Word
+    “blank document” in a template file called NORMAL.DOTX; with Word
     2016 on Windows 7, this file is stored under
     C:\\Users\\\<username\>\\AppData\\Roaming\\Microsoft\\Templates. If
     you want a to change the look of the blank document you get from
