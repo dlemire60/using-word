@@ -53,38 +53,35 @@ reasonable to jump around if certain topics catch your eye. But I’ll be
 disappointed if you entirely skip the keyboard shortcuts stuff; you’ll
 be missing out\!
 
-[Ribbons and Phantom Ribbons 2](#_Toc471220670)
+[Ribbons and Phantom Ribbons](#_Toc471220670)
 
-[Keyboard Accelerators & Shortcuts 3](#keyboard-accelerators-shortcuts)
+[Keyboard Accelerators & Shortcuts](#keyboard-accelerators-shortcuts)
 
-[Tweak Word To Suit You 5](#tweak-word-to-suit-you)
+[Tweak Word To Suit You](#tweak-word-to-suit-you)
 
-[Why I Use Draft View 6](#why-i-use-draft-view)
+[Why I Use Draft View](#why-i-use-draft-view)
 
-[I ♥ Tables 7](#i-tables)
+[I ♥ Tables](#i-love-tables)
 
-[Some Useful Capabilities You Might Not Know About
-8](#some-useful-capabilities-you-might-not-know-about)
+[Some Useful Capabilities You Might Not Know About](#some-useful-capabilities-you-might-not-know-about)
 
-[Alternative Ways To Select Text 10](#alternative-ways-to-select-text)
+[Alternative Ways To Select Text](#alternative-ways-to-select-text)
 
-[Some Really, Really Handy Shortcut Keys
-11](#some-really-really-handy-shortcut-keys)
+[Some Really, Really Handy Shortcut Keys](#some-really-really-handy-shortcut-keys)
 
-[Formatting Fundamentals 13](#formatting-fundamentals)
+[Formatting Fundamentals](#formatting-fundamentals)
 
-[Document Formatting 14](#document-formatting)
+[Document Formatting](#document-formatting)
 
-[Paragraph Formatting 16](#paragraph-formatting)
+[Paragraph Formatting](#paragraph-formatting)
 
-[Document Structure: A Key Use of Styles
-19](#document-structure-a-key-use-of-styles)
+[Document Structure: A Key Use of Styles](#document-structure-a-key-use-of-styles)
 
-[Document Templates & NORMAL.DOTX 21](#document-templates-normal.dotx)
+[Document Templates & NORMAL.DOTX](#document-templates-normal.dotx)
 
-[Customizing Word 22](#customizing-word)
+[Customizing Word](#customizing-word)
 
-[Useful Resources 23](#useful-resources)
+[Useful Resources](#useful-resources)
 
 <span id="_Toc471220670" class="anchor"></span>For starters, here’s a
 link to the PDF of Microsoft’s [Quick Start guide for
@@ -332,7 +329,7 @@ Beyond Draft view:
     between the margins fits in the window (this one isn’t on the
     ribbon).
 
-# I ♥ Tables
+# I Love Tables
 
 Tables are *the* way to structure data into columns; using tabs to do it
 will eventually lead you into a mess (and a rubber room), and content in
@@ -1202,19 +1199,13 @@ most useful computer application book I’d ever read.
 
 Happy writing.
 
-###### 1.  I’ve never used Word on a Mac, so I have no insight into how applicable this guide is for Mac users.
+1.  I’ve never used Word on a Mac, so I have no insight into how applicable this guide is for Mac users.
 
-###### 2.  I know this sounds like I’m encouraging you to “think like the computer” but I don’t really mean it that way. I’m more suggesting that you wouldn’t use the side of hammer to pound your nails, so why use a word processor like a typewriter.
+2.  I know this sounds like I’m encouraging you to “think like the computer” but I don’t really mean it that way. I’m more suggesting that you wouldn’t use the side of hammer to pound your nails, so why use a word processor like a typewriter.
 
-3.  You’ll also discover that there’s usually *at least* 2 ways to do
-    most things, and sometimes as many as 5 or 6.
+3.  You’ll also discover that there’s usually *at least* 2 ways to do most things, and sometimes as many as 5 or 6.
 
-4.  If you want the skinny on how Microsoft defines the Ribbon
-    interface, here’s [an
-    article](https://msdn.microsoft.com/en-us/library/windows/desktop/dn742393\(v=vs.85\).aspx)
-    for you. It’s written as guidance for developers but fills you in on
-    the terminology and the underlying thinking. The up-front part
-    (first few screens) are plenty for the casual reader.
+4.  If you want the skinny on how Microsoft defines the Ribbon interface, here’s [an article](https://msdn.microsoft.com/en-us/library/windows/desktop/dn742393\(v=vs.85\).aspx) for you. It’s written as guidance for developers but fills you in on the terminology and the underlying thinking. The up-front part (first few screens) are plenty for the casual reader.
 
 5.  Some would probably say I’m obsessive about using the keyboard. They
     might well be right. And I have to concede that more recent versions
