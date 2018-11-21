@@ -216,9 +216,9 @@ particularly recommend:
   - There are quite a few information items that can be displayed on the
     status bar at the bottom of the Word window, many of which are off
     by default. Right-clicking on the status bar displays the list shown
-    at right; you can click on individual items to toggle whether they
-    appear on the status bar. Some of the items (e.g., the Track Changes
-    status) can also be clicked to change their status (e.g., turn
+    below; you can click on individual items to toggle whether they
+    appear on the status bar. Some of the items, like the Track Changes
+    status, can also be clicked to change their status (e.g., turn
     change tracking on and off).
 
 ![](media/image6.png)
