@@ -306,14 +306,14 @@ Beyond Draft view:
     click on the percentage number in the zoom control in the bottom
     right corner. Some of these are only relevant in Print Layout view:
 
-  - “Page width” sets the zoom so that the horizontal width of the page
+    - “Page width” sets the zoom so that the horizontal width of the page
     fits in the window. (Alt, W, I)
 
-  - “Whole page” sets the zoom so that one entire page fits in the
+    - “Whole page” sets the zoom so that one entire page fits in the
     window. On the ribbon this is View, One Page (Alt, W, 1 (number
     one))
 
-  - “Text width” sets the zoom so that the horizontal width of the text
+    - “Text width” sets the zoom so that the horizontal width of the text
     between the margins fits in the window (this one isn’t on the
     ribbon).
 
@@ -348,12 +348,14 @@ the outside of the table to show off its boundaries, but obviously you
 wouldn’t usually want that formatting in a real signature block. You can
 also use the Properties dialog from the Table Layout ribbon to align
 your signature block left, center, or right as you wish for your
-document (here it’s centered).
+document.
 
+| ----------------------------------------- |
 |                                           |
 | ----------------------------------------- |
 |                                           |
 | **David P. Lemire**, General Troublemaker |
+| ----------------------------------------- |
 
 That Properties dialog is the place to go for a lot of your table
 formatting needs: row height, column width, heading rows, etc.
