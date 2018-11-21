@@ -71,11 +71,11 @@ be missing out\!
 
 [Formatting Fundamentals](#formatting-fundamentals)
 
-[Document Formatting](#document-formatting)
+ [Document Formatting](#document-formatting)
 
-[Paragraph Formatting](#paragraph-formatting)
+ [Paragraph Formatting](#paragraph-formatting)
 
-[Document Structure: A Key Use of Styles](#document-structure-a-key-use-of-styles)
+ [Document Structure: A Key Use of Styles](#document-structure-a-key-use-of-styles)
 
 [Document Templates and NORMAL.DOTX](#document-templates-and-normal.dotx)
 
