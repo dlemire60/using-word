@@ -1045,8 +1045,6 @@ as follows:
 4.  Any customizations you’ve made to Word are, by default, also stored
     in NORMAL.DOTX.
 
-<!-- end list -->
-
 3.  A new document can be based on a template other than Normal. When
     you do that, the settings in the selected template, including any
     style definitions, boilerplate text, etc., are added onto the
@@ -1058,8 +1056,6 @@ as follows:
     there is *no further connection* between your new document and the
     template on which it was based. If you modify that template later,
     it won’t affect any existing document(s) based on that template.
-
-<!-- end list -->
 
 5.  You can force Word to load templates in addition to NORMAL.DOTX when
     it starts up, but that’s something of an advanced customization
