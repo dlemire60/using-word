@@ -441,7 +441,6 @@ Name\<tab\>Address\<tab\>City\<tab\>State\<tab\>Zip
 
 and then convert text to table as described above, I’ll wind up with:
 
-| - | - | - | - | - |
 | Name | Address | City | State | Zip |
 | - | - | - | - | - |
 
