@@ -1202,13 +1202,9 @@ most useful computer application book I’d ever read.
 
 Happy writing.
 
-1.  I’ve never used Word on a Mac, so I have no insight into how
-    applicable this guide is for Mac users.
+###### 1.  I’ve never used Word on a Mac, so I have no insight into how applicable this guide is for Mac users.
 
-2.  I know this sounds like I’m encouraging you to “think like the
-    computer” but I don’t really mean it that way. I’m more suggesting
-    that you wouldn’t use the side of hammer to pound your nails, so why
-    use a word processor like a typewriter.
+###### 2.  I know this sounds like I’m encouraging you to “think like the computer” but I don’t really mean it that way. I’m more suggesting that you wouldn’t use the side of hammer to pound your nails, so why use a word processor like a typewriter.
 
 3.  You’ll also discover that there’s usually *at least* 2 ways to do
     most things, and sometimes as many as 5 or 6.
