@@ -22,7 +22,7 @@ changed as Word has evolved, but the mindset for how to get the most out
 of the program stays the same. Your mileage may vary. I’d also note that
 much of what’s in here about Word (e.g., keyboard shortcuts) can also be
 applied with just a little adaptation to many Windows applications,
-especially the other components of Microsoft Office.[Note 1](#note-1)
+especially the other components of Microsoft Office. [(Note 1)](#note-1)
 
 I feel obliged to make one “soapbox” comment:
 
@@ -1182,7 +1182,7 @@ most useful computer application book I’d ever read.
 
 Happy writing.
 
-# Note 1
+###### Note 1
 
 I’ve never used Word on a Mac, so I have no insight into how applicable this guide is for Mac users.
 
