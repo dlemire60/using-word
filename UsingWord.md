@@ -1182,7 +1182,7 @@ most useful computer application book I’d ever read.
 
 Happy writing.
 
-#Note 1
+# Note 1
 
 I’ve never used Word on a Mac, so I have no insight into how applicable this guide is for Mac users.
 
