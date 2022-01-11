@@ -57,7 +57,7 @@ be missing out\!
 * [Keyboard Accelerators and Shortcuts](#keyboard-accelerators-and-shortcuts)
 * [Tweak Word To Suit You](#tweak-word-to-suit-you)
 * [Why I Use Draft View](#why-i-use-draft-view)
-* [I ♥ Tables](#i-love-tables)
+* [I ♥ Tables](#i-heart-tables)
 * [Some Useful Capabilities You Might Not Know About](#some-useful-capabilities-you-might-not-know-about)
 * [Alternative Ways To Select Text](#alternative-ways-to-select-text)
 * [Some Really, Really Handy Shortcut Keys](#some-really-really-handy-shortcut-keys)
@@ -317,7 +317,7 @@ Beyond Draft view:
     between the margins fits in the window (this one isn’t on the
     ribbon).
 
-# I Love Tables
+# I :heart: Tables
 
 Tables are *the* way to structure data into columns; using tabs to do it
 will eventually lead you into a mess (and a rubber room), and content in
