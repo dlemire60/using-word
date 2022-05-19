@@ -720,24 +720,24 @@ shortcuts](http://www.laptopmag.com/articles/see-all-word-keyboard-shortcuts)\[9
 # Formatting Fundamentals
 
 Formatting is both one of Word’s greatest strengths and one its greatest
-sources of frustration, partly because it’s mostly but not quite
+sources of frustration, partly because it’s mostly but not *quite*
 completely consistent. I’m going to tackle it by looking at it three
 ways:
 
   - *Document formatting*, which is where you control things like
-    margins, columns and headers and footers; that is, things the
-    control the look and layout of the page. Documents can be broken
-    into sections, and these aspects of page formatting can vary among
-    sections.
+    margins, columns and headers and footers; that is, things
+    that control the look and layout of the page. A Word file can
+    be broken into sections, and these aspects of page formatting
+    can vary among sections.
 
   - *Paragraph formatting*, where you control things like indents,
     justification, line spacing with, before and after paragraphs, and
     some aspects of page breaks.
 
-  - *Structural formatting*, where you use Heading styles give a
-    document hierarchical structure (sections, subsections,
-    sub-subsections, and so forth), plus the use of styles in general to
-    make all of this easier and more consistent.
+  - *Structural formatting*, where you use Heading styles to give
+    a document hierarchical structure (sections, subsections,
+    sub-subsections, and so forth), plus the use of styles in
+    general to make all of this easier and more consistent.
 
 Word stores formatting *with* the item it applies to: the document,
 section, or paragraph. To really *get* Word formatting, you have to
