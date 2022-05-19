@@ -14,7 +14,7 @@ complexity, and editing time increase. I find it beneficial, however, to
 make a habit of using styles and other good formatting practices even
 for very short documents because it makes things very predictable.
 
-I’m currently using Word 2016 on Windows 7. I’ve built up this knowledge
+I’m currently using Word 2016 on Windows 10. I’ve built up this knowledge
 over time since using Word 97 (starting from a wonderful book by called
 *Word 97 Annoyances*; Woody Loenhard, one of the authors, remains an
 excellent source of MS Office information to this day). The details have
